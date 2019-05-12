@@ -7,7 +7,7 @@ This is a API that can be used to make bank transactions.
 5)Repay Loan
 
 
-Software Requiremnts to run on Ubuntu Machine
+Software Requirements to run on Ubuntu Machine
 ---------------------------------------------
 1)Docker
     Set up the repository
